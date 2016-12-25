@@ -1,0 +1,2098 @@
+[
+    {
+        "outputFile": "/home/urvikagola/Desktop/lumicall/build/intermediates/incremental/mergeWhitelabelDebugResources/merged.dir/values-it/values-it.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 4652,
+                        "endLine": 123,
+                        "endColumn": 19,
+                        "endOffset": 4851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endLine": 13,
+                    "endColumn": 19,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 6166,
+                        "endLine": 149,
+                        "endColumn": 19,
+                        "endOffset": 6391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endLine": 19,
+                    "endColumn": 19,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 6396,
+                        "endLine": 155,
+                        "endColumn": 19,
+                        "endOffset": 6553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 651,
+                    "endLine": 40,
+                    "endColumn": 16,
+                    "endOffset": 1103
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 1,
+                        "startOffset": 2251,
+                        "endLine": 63,
+                        "endColumn": 16,
+                        "endOffset": 2703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1108,
+                    "endLine": 61,
+                    "endColumn": 16,
+                    "endOffset": 1528
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 1,
+                        "startOffset": 2705,
+                        "endLine": 84,
+                        "endColumn": 16,
+                        "endOffset": 3125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 1533,
+                    "endLine": 67,
+                    "endColumn": 19,
+                    "endOffset": 1732
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 4385,
+                        "endLine": 116,
+                        "endColumn": 19,
+                        "endOffset": 4584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 1737,
+                    "endLine": 71,
+                    "endColumn": 19,
+                    "endOffset": 1894
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 3184,
+                        "endLine": 90,
+                        "endColumn": 19,
+                        "endOffset": 3341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 1899,
+                    "endLine": 75,
+                    "endColumn": 19,
+                    "endOffset": 2006
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 3346,
+                        "endLine": 94,
+                        "endColumn": 19,
+                        "endOffset": 3453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 2011,
+                    "endColumn": 108,
+                    "endOffset": 2115
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 108,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 2120,
+                    "endColumn": 107,
+                    "endOffset": 2223
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 107,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 2228,
+                    "endColumn": 122,
+                    "endOffset": 2346
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 273,
+                        "endColumn": 122,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 2351,
+                    "endColumn": 99,
+                    "endOffset": 2446
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 99,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 2451,
+                    "endColumn": 108,
+                    "endOffset": 2555
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 496,
+                        "endColumn": 108,
+                        "endOffset": 600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 2560,
+                    "endColumn": 83,
+                    "endOffset": 2639
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 605,
+                        "endColumn": 83,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 2644,
+                    "endColumn": 108,
+                    "endOffset": 2748
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 108,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 2753,
+                    "endColumn": 124,
+                    "endOffset": 2873
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endColumn": 124,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 2878,
+                    "endColumn": 105,
+                    "endOffset": 2979
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 923,
+                        "endColumn": 105,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 2984,
+                    "endColumn": 107,
+                    "endOffset": 3087
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 107,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3092,
+                    "endColumn": 97,
+                    "endOffset": 3185
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 97,
+                        "endOffset": 1230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 3190,
+                    "endColumn": 103,
+                    "endOffset": 3289
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1235,
+                        "endColumn": 103,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3294,
+                    "endColumn": 104,
+                    "endOffset": 3394
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 104,
+                        "endOffset": 1439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3399,
+                    "endColumn": 106,
+                    "endOffset": 3501
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1444,
+                        "endColumn": 106,
+                        "endOffset": 1546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 3506,
+                    "endColumn": 121,
+                    "endOffset": 3623
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1551,
+                        "endColumn": 121,
+                        "endOffset": 1668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 3628,
+                    "endLine": 106,
+                    "endColumn": 295,
+                    "endOffset": 4682
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 248,
+                        "endLine": 22,
+                        "endColumn": 295,
+                        "endOffset": 1302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4687,
+                    "endColumn": 46,
+                    "endOffset": 4729
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 53,
+                        "endColumn": 43,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4734,
+                    "endColumn": 74,
+                    "endOffset": 4804
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 0,
+                        "startOffset": 1575,
+                        "endColumn": 70,
+                        "endOffset": 1645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4809,
+                    "endColumn": 73,
+                    "endOffset": 4878
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 0,
+                        "startOffset": 1505,
+                        "endColumn": 69,
+                        "endOffset": 1574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4883,
+                    "endColumn": 67,
+                    "endOffset": 4946
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 0,
+                        "startOffset": 8251,
+                        "endColumn": 63,
+                        "endOffset": 8314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4951,
+                    "endColumn": 59,
+                    "endOffset": 5006
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 0,
+                        "startOffset": 8062,
+                        "endColumn": 55,
+                        "endOffset": 8117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 5011,
+                    "endColumn": 68,
+                    "endOffset": 5075
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 0,
+                        "startOffset": 8118,
+                        "endColumn": 64,
+                        "endOffset": 8182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 5080,
+                    "endColumn": 71,
+                    "endOffset": 5147
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 0,
+                        "startOffset": 8183,
+                        "endColumn": 67,
+                        "endOffset": 8250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 5152,
+                    "endColumn": 56,
+                    "endOffset": 5204
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 0,
+                        "startOffset": 8315,
+                        "endColumn": 52,
+                        "endOffset": 8367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 5209,
+                    "endLine": 117,
+                    "endColumn": 175,
+                    "endOffset": 5509
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 0,
+                        "startOffset": 3757,
+                        "endLine": 104,
+                        "endColumn": 175,
+                        "endOffset": 4057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 5514,
+                    "endColumn": 58,
+                    "endOffset": 5568
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 0,
+                        "startOffset": 4119,
+                        "endColumn": 54,
+                        "endOffset": 4173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 5573,
+                    "endColumn": 101,
+                    "endOffset": 5670
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 0,
+                        "startOffset": 1692,
+                        "endColumn": 97,
+                        "endOffset": 1789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 5675,
+                    "endColumn": 49,
+                    "endOffset": 5720
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 0,
+                        "startOffset": 1646,
+                        "endColumn": 45,
+                        "endOffset": 1691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 5725,
+                    "endColumn": 43,
+                    "endOffset": 5764
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 0,
+                        "startOffset": 7582,
+                        "endColumn": 39,
+                        "endOffset": 7621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 5769,
+                    "endColumn": 45,
+                    "endOffset": 5810
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 0,
+                        "startOffset": 7714,
+                        "endColumn": 41,
+                        "endOffset": 7755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5815,
+                    "endColumn": 48,
+                    "endOffset": 5859
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 0,
+                        "startOffset": 7622,
+                        "endColumn": 44,
+                        "endOffset": 7666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 5864,
+                    "endColumn": 57,
+                    "endOffset": 5917
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 0,
+                        "startOffset": 7935,
+                        "endColumn": 53,
+                        "endOffset": 7988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5922,
+                    "endColumn": 42,
+                    "endOffset": 5960
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 0,
+                        "startOffset": 7543,
+                        "endColumn": 38,
+                        "endOffset": 7581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5965,
+                    "endColumn": 43,
+                    "endOffset": 6004
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 0,
+                        "startOffset": 7795,
+                        "endColumn": 39,
+                        "endOffset": 7834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 6009,
+                    "endColumn": 42,
+                    "endOffset": 6047
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 0,
+                        "startOffset": 7756,
+                        "endColumn": 38,
+                        "endOffset": 7794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 6052,
+                    "endColumn": 54,
+                    "endOffset": 6102
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 0,
+                        "startOffset": 7492,
+                        "endColumn": 50,
+                        "endOffset": 7542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 6107,
+                    "endColumn": 53,
+                    "endOffset": 6156
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 0,
+                        "startOffset": 7885,
+                        "endColumn": 49,
+                        "endOffset": 7934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 6161,
+                    "endColumn": 53,
+                    "endOffset": 6210
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 0,
+                        "startOffset": 7835,
+                        "endColumn": 49,
+                        "endOffset": 7884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 6215,
+                    "endColumn": 50,
+                    "endOffset": 6261
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 0,
+                        "startOffset": 7667,
+                        "endColumn": 46,
+                        "endOffset": 7713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 6266,
+                    "endColumn": 33,
+                    "endOffset": 6295
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 0,
+                        "startOffset": 4089,
+                        "endColumn": 29,
+                        "endOffset": 4118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 6300,
+                    "endColumn": 74,
+                    "endOffset": 6370
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 0,
+                        "startOffset": 1790,
+                        "endColumn": 70,
+                        "endOffset": 1860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 6375,
+                    "endColumn": 44,
+                    "endOffset": 6415
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 0,
+                        "startOffset": 8640,
+                        "endColumn": 40,
+                        "endOffset": 8680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 6420,
+                    "endColumn": 52,
+                    "endOffset": 6468
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 0,
+                        "startOffset": 8591,
+                        "endColumn": 48,
+                        "endOffset": 8639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 6473,
+                    "endColumn": 46,
+                    "endOffset": 6515
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 97,
+                        "endColumn": 43,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6520,
+                    "endColumn": 48,
+                    "endOffset": 6564
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 0,
+                        "startOffset": 1304,
+                        "endColumn": 44,
+                        "endOffset": 1348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 6569,
+                    "endColumn": 59,
+                    "endOffset": 6624
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 0,
+                        "startOffset": 1390,
+                        "endColumn": 55,
+                        "endOffset": 1445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 6629,
+                    "endColumn": 44,
+                    "endOffset": 6669
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 1349,
+                        "endColumn": 40,
+                        "endOffset": 1389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 6674,
+                    "endColumn": 51,
+                    "endOffset": 6721
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 0,
+                        "startOffset": 3570,
+                        "endColumn": 47,
+                        "endOffset": 3617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 6726,
+                    "endColumn": 55,
+                    "endOffset": 6777
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 0,
+                        "startOffset": 5249,
+                        "endColumn": 51,
+                        "endOffset": 5300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 6782,
+                    "endColumn": 78,
+                    "endOffset": 6856
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 0,
+                        "startOffset": 5301,
+                        "endColumn": 74,
+                        "endOffset": 5375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 6861,
+                    "endColumn": 69,
+                    "endOffset": 6926
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 0,
+                        "startOffset": 1862,
+                        "endColumn": 65,
+                        "endOffset": 1927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6931,
+                    "endColumn": 75,
+                    "endOffset": 7002
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 0,
+                        "startOffset": 5497,
+                        "endColumn": 71,
+                        "endOffset": 5568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 7007,
+                    "endColumn": 74,
+                    "endOffset": 7077
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 0,
+                        "startOffset": 4852,
+                        "endColumn": 70,
+                        "endOffset": 4922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 7082,
+                    "endColumn": 101,
+                    "endOffset": 7179
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 0,
+                        "startOffset": 4923,
+                        "endColumn": 97,
+                        "endOffset": 5020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 7184,
+                    "endColumn": 82,
+                    "endOffset": 7262
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 0,
+                        "startOffset": 5021,
+                        "endColumn": 78,
+                        "endOffset": 5099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 7267,
+                    "endColumn": 94,
+                    "endOffset": 7357
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 0,
+                        "startOffset": 5100,
+                        "endColumn": 90,
+                        "endOffset": 5190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 7362,
+                    "endColumn": 62,
+                    "endOffset": 7420
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 0,
+                        "startOffset": 7221,
+                        "endColumn": 58,
+                        "endOffset": 7279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 7425,
+                    "endColumn": 90,
+                    "endOffset": 7511
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 0,
+                        "startOffset": 7280,
+                        "endColumn": 86,
+                        "endOffset": 7366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 7516,
+                    "endColumn": 62,
+                    "endOffset": 7574
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 0,
+                        "startOffset": 7367,
+                        "endColumn": 58,
+                        "endOffset": 7425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 7579,
+                    "endColumn": 68,
+                    "endOffset": 7643
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 0,
+                        "startOffset": 7426,
+                        "endColumn": 64,
+                        "endOffset": 7490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 7648,
+                    "endColumn": 89,
+                    "endOffset": 7733
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 0,
+                        "startOffset": 3670,
+                        "endColumn": 85,
+                        "endOffset": 3755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 7738,
+                    "endColumn": 66,
+                    "endOffset": 7800
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 0,
+                        "startOffset": 4585,
+                        "endColumn": 62,
+                        "endOffset": 4647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 7805,
+                    "endColumn": 51,
+                    "endOffset": 7852
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 0,
+                        "startOffset": 2080,
+                        "endColumn": 47,
+                        "endOffset": 2127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 7857,
+                    "endColumn": 81,
+                    "endOffset": 7934
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 0,
+                        "startOffset": 2128,
+                        "endColumn": 77,
+                        "endOffset": 2205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 7939,
+                    "endColumn": 69,
+                    "endOffset": 8004
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 0,
+                        "startOffset": 6096,
+                        "endColumn": 65,
+                        "endOffset": 6161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 8009,
+                    "endColumn": 55,
+                    "endOffset": 8060
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 0,
+                        "startOffset": 3618,
+                        "endColumn": 51,
+                        "endOffset": 3669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 8065,
+                    "endColumn": 62,
+                    "endOffset": 8123
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 0,
+                        "startOffset": 5818,
+                        "endColumn": 58,
+                        "endOffset": 5876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 8128,
+                    "endColumn": 64,
+                    "endOffset": 8188
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 0,
+                        "startOffset": 6795,
+                        "endColumn": 60,
+                        "endOffset": 6855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 8193,
+                    "endColumn": 78,
+                    "endOffset": 8267
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 0,
+                        "startOffset": 6856,
+                        "endColumn": 74,
+                        "endOffset": 6930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 8272,
+                    "endColumn": 60,
+                    "endOffset": 8328
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 0,
+                        "startOffset": 5192,
+                        "endColumn": 56,
+                        "endOffset": 5248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 8333,
+                    "endColumn": 58,
+                    "endOffset": 8387
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 0,
+                        "startOffset": 5376,
+                        "endColumn": 54,
+                        "endOffset": 5430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 8392,
+                    "endColumn": 68,
+                    "endOffset": 8456
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 0,
+                        "startOffset": 5431,
+                        "endColumn": 64,
+                        "endOffset": 5495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 8461,
+                    "endColumn": 66,
+                    "endOffset": 8523
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 0,
+                        "startOffset": 3455,
+                        "endColumn": 62,
+                        "endOffset": 3517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 8528,
+                    "endColumn": 70,
+                    "endOffset": 8594
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 0,
+                        "startOffset": 6621,
+                        "endColumn": 66,
+                        "endOffset": 6687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 8599,
+                    "endColumn": 110,
+                    "endOffset": 8705
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 0,
+                        "startOffset": 6688,
+                        "endColumn": 106,
+                        "endOffset": 6794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 8710,
+                    "endColumn": 54,
+                    "endOffset": 8760
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 0,
+                        "startOffset": 1982,
+                        "endColumn": 50,
+                        "endOffset": 2032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 8765,
+                    "endColumn": 69,
+                    "endOffset": 8830
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 0,
+                        "startOffset": 6555,
+                        "endColumn": 65,
+                        "endOffset": 6620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 8835,
+                    "endColumn": 82,
+                    "endOffset": 8913
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 0,
+                        "startOffset": 5675,
+                        "endColumn": 78,
+                        "endOffset": 5753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 8918,
+                    "endColumn": 109,
+                    "endOffset": 9023
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 0,
+                        "startOffset": 5569,
+                        "endColumn": 105,
+                        "endOffset": 5674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 9028,
+                    "endColumn": 47,
+                    "endOffset": 9071
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 0,
+                        "startOffset": 2206,
+                        "endColumn": 43,
+                        "endOffset": 2249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 9076,
+                    "endColumn": 59,
+                    "endOffset": 9131
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 0,
+                        "startOffset": 6998,
+                        "endColumn": 55,
+                        "endOffset": 7053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 9136,
+                    "endColumn": 108,
+                    "endOffset": 9240
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 0,
+                        "startOffset": 7054,
+                        "endColumn": 104,
+                        "endOffset": 7158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 9245,
+                    "endColumn": 65,
+                    "endOffset": 9306
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 0,
+                        "startOffset": 7159,
+                        "endColumn": 61,
+                        "endOffset": 7220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 9311,
+                    "endColumn": 70,
+                    "endOffset": 9377
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 0,
+                        "startOffset": 6931,
+                        "endColumn": 66,
+                        "endOffset": 6997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 9382,
+                    "endColumn": 68,
+                    "endOffset": 9446
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 0,
+                        "startOffset": 4175,
+                        "endColumn": 64,
+                        "endOffset": 4239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 9451,
+                    "endColumn": 144,
+                    "endOffset": 9591
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 0,
+                        "startOffset": 4240,
+                        "endColumn": 140,
+                        "endOffset": 4380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 9596,
+                    "endColumn": 56,
+                    "endOffset": 9648
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 0,
+                        "startOffset": 3127,
+                        "endColumn": 52,
+                        "endOffset": 3179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 9653,
+                    "endColumn": 67,
+                    "endOffset": 9716
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 0,
+                        "startOffset": 5754,
+                        "endColumn": 63,
+                        "endOffset": 5817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 9721,
+                    "endColumn": 50,
+                    "endOffset": 9767
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 0,
+                        "startOffset": 2033,
+                        "endColumn": 46,
+                        "endOffset": 2079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 9772,
+                    "endColumn": 61,
+                    "endOffset": 9829
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 0,
+                        "startOffset": 5877,
+                        "endColumn": 57,
+                        "endOffset": 5934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 9834,
+                    "endColumn": 103,
+                    "endOffset": 9933
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 0,
+                        "startOffset": 5935,
+                        "endColumn": 99,
+                        "endOffset": 6034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 9938,
+                    "endColumn": 64,
+                    "endOffset": 9998
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 0,
+                        "startOffset": 6035,
+                        "endColumn": 60,
+                        "endOffset": 6095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 10003,
+                    "endColumn": 57,
+                    "endOffset": 10056
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 0,
+                        "startOffset": 1928,
+                        "endColumn": 53,
+                        "endOffset": 1981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 10061,
+                    "endColumn": 55,
+                    "endOffset": 10112
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 0,
+                        "startOffset": 3518,
+                        "endColumn": 51,
+                        "endOffset": 3569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 10117,
+                    "endColumn": 66,
+                    "endOffset": 10179
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 141,
+                        "endColumn": 63,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 10184,
+                    "endColumn": 100,
+                    "endOffset": 10280
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 0,
+                        "startOffset": 8414,
+                        "endColumn": 96,
+                        "endOffset": 8510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 10285,
+                    "endColumn": 82,
+                    "endOffset": 10363
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 0,
+                        "startOffset": 8511,
+                        "endColumn": 78,
+                        "endOffset": 8589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 10368,
+                    "endColumn": 74,
+                    "endOffset": 10438
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 0,
+                        "startOffset": 7990,
+                        "endColumn": 70,
+                        "endOffset": 8060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 10443,
+                    "endColumn": 47,
+                    "endOffset": 10486
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 0,
+                        "startOffset": 8369,
+                        "endColumn": 43,
+                        "endOffset": 8412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 10491,
+                    "endColumn": 60,
+                    "endOffset": 10547
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 0,
+                        "startOffset": 1447,
+                        "endColumn": 56,
+                        "endOffset": 1503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 10552,
+                    "endColumn": 34,
+                    "endOffset": 10582
+                },
+                "from": {
+                    "file": "/home/urvikagola/Desktop/lumicall/src/whitelabel/res/values-it/strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 0,
+                        "startOffset": 4058,
+                        "endColumn": 30,
+                        "endOffset": 4088
+                    }
+                }
+            }
+        ]
+    }
+]

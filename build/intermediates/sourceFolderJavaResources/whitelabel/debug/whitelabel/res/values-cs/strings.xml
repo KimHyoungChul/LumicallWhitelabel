@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<string name="sip_name">ClientApp, když je k dispozici</string>
+    //Change About according to client profile
+<string name="about">Lumicall je open-source SIP klient pro Android
+\n
+\nPro více informací navštivte http://sipdroid.org
+\n
+\nVerze ${VERSION}
+\nTento program byl uvolněn pro testování.
+\n
+\nCopyright (C) 2009 The Lumicall Open Source Project (http://sipdroid.org)
+\nCopyright (C) 2008 Hughes Systique Corporation, USA (http://hsc.com)
+\nCopyright (C) 2006 The Android Open Source Project (http://android.com)
+\nCopyright (C) 2005 Luca Veltri - University of Parma - Italy (http://mjsip.org)
+\n
+\nTento program je free software, můžete jej redistribuovat a/nebo modifikovat za podmínek stanovených v GNU General Public License zveřejněnou nadací Free Software Foundation, buďto ve verzi 3 nebo (podle vaší volby) jakékoliv její pozdější verze.
+\n
+\nTento program je šířen v naději, že bude užitečný, ale BEZ JAKÉKOLIV ZÁRUKY, neposkytuje ani odvozené záruky PRODEJNOSTI anebo VHODNOSTI PRO DANÝ ÚČEL. Podrobnější informace naleznete v GNU General Public License (http://www.gnu.org/licenses).</string>
+<string name="dialog_default">ClientApp nyní není nastavený jako výchozí telefon. Chcete ho nastavit jako výchozí telefon?
+\n
+\nPokud zde odpovíte \'Ne\', můžete stále volat přes ClientApp přidáním znaku \'+\' za číslo volaného.</string>
+    <string-array name="pref_display_values">
+        <item>Pouze ClientApp</item>
+        <item>ClientApp, pokud je k dispozici</item>
+        <item>Telefon</item>
+		<item>Always ask</item>
+    </string-array>
+
+<string name="settings_title">Nastavení ClientApp</string>
+
+<string name="settings_profile_title">Nastavení ClientApp (<xliff:g id="profile">%s</xliff:g>)</string>
+</resources>

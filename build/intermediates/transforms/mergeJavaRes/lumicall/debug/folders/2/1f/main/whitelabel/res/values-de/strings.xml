@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sip_name">ClientApp-Anruf, wenn verfügbar</string>
+    //Change About according to client profile
+
+
+<string name="about">Lumicall ist ein freier SIP-Client für Android
+\n
+\nSiehe http://sipdroid.org für weitere Infos
+\n
+\nVersion ${VERSION}
+\nDas Programm befindet sich noch in der Testphase.
+\n
+\nCopyright (C) 2009 The Lumicall Open Source Project (http://sipdroid.org)
+\nCopyright (C) 2008 Hughes Systique Corporation, USA (http://hsc.com)
+\nCopyright (C) 2006 The Android Open Source Project (http://android.com)
+\nCopyright (C) 2005 Luca Veltri - University of Parma - Italy (http://mjsip.org)
+\n
+\nDieses Programm ist freie Software. Sie können es unter den Bedingungen der GNU General Public License, wie von der Free Software Foundation veröffentlicht, weitergeben und/oder modifizieren, entweder gemäß Version 3 der Lizenz oder (nach Ihrer Option) jeder späteren Version.
+\n
+\nDie Veröffentlichung dieses Programms erfolgt in der Hoffnung, daß es Ihnen von Nutzen sein wird, aber OHNE IRGENDEINE GARANTIE, sogar ohne die implizite Garantie der MARKTREIFE oder der VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK. Details finden Sie in der GNU General Public License (siehe http://www.gnu.org/licenses).</string>
+
+<string name="dialog_default">ClientApp ist nicht als Telefon voreingestellt. Möchten Sie es als Telefon voreinstellen?
+\n
+\nAuch wenn Sie mit \'Nein\' antworten, können Sie aus dem System über ClientApp wählen, indem Sie \'+\' hinter eine Nummer im Telefon anhängen oder bei einem Kontakt auf \'Textnachricht an\' klicken.</string>
+
+    <string-array name="pref_display_values">
+        <item>ClientApp</item>
+        <item>ClientApp, wenn verfügbar</item>
+        <item>Telefon</item>
+        <item>Immer fragen</item>
+    </string-array>
+
+</resources>

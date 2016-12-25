@@ -1,0 +1,36 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<string name="app_name">ClientApp</string>
+<string name="sip_name">ClientApp Call, when available</string>
+    //Change About according to client profile
+<string name="about">Lumicall es un cliente SIP de código abierto para Android
+\n
+\nVisite http://sipdroid.org para mayor información
+\n
+\nVersión ${VERSION}
+\nEste software ha sido liberado con propósito de pruebas.
+\n
+\nCopyright (C) 2009 The Lumicall Open Source Project (http://sipdroid.org)
+\nCopyright (C) 2008 Hughes Systique Corporation, USA (http://hsc.com)
+\nCopyright (C) 2006 The Android Open Source Project (http://android.com)
+\nCopyright (C) 2005 Luca Veltri - University of Parma - Italy (http://mjsip.org)
+\n
+\nEste programa es software libre: usted puede redistribuirlo y/o modificarlo conforme a los términos de la Licencia Pública General de GNU publicada por la Fundación para el Software Libre, ya sea la versión 3 de esta Licencia o (a su elección) cualquier versión posterior.
+\n
+\nEste programa se distribuye con el deseo de que le resulte útil, pero SIN GARANTÃ?AS DE NINGÚN TIPO; ni siquiera con las garantías implícitas de COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO DETERMINADO.  Para más información, consulte la Licencia Pública General de GNU (http://www.gnu.org/licenses).</string>
+
+<string name="dialog_default">Actualmente ClientApp no es la aplicación de telefonía predeterminada. Desea predeterminar ClientApp para hacer llamadas?
+\n
+\nSi responde \'No\' aquí, aun puede llamar con ClientApp agregando un \'\' antes del número a llamar en la opción Teléfono, o seleccionando \'Enviar un mensaje de texto a\' en la opción Contactos.</string>
+<string name="dialog_message">Desea ver un mensaje de introducción a ClientApp 1.5 de Pascal?</string>
+
+    <string-array name="pref_display_values">
+        <item>Solo ClientApp</item>
+        <item>ClientApp, cuando esté disponible</item>
+        <item>Teléfono</item>
+    </string-array>
+<string name="settings_title">Ajustes de ClientApp</string>
+
+<string name="settings_profile_title">Ajustes de ClientApp (<xliff:g id="profile">%s</xliff:g>)</string>
+
+ </resources>

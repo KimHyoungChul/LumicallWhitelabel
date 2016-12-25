@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">ClientApp</string>
+    <string name="reg_title">ClientApp activation</string>
+
+    //Change About according to client profile
+    <string name="about">Lumicall (ClientApp) is an open-source SIP client for Android
+\n
+\nSee http://www.lumicall.org for more info
+\n
+\nVersion ${VERSION}
+\nThe software has been released for testing.
+\n
+\nCopyright (C) 2012-2016 Ready Technology (UK) Limited (http://www.lumicall.org)
+\nCopyright (C) 2016 Pranav Jain (contact@pranavjain.me)
+\nCopyright (C) 2011 Jitsi / ice4j
+\nCopyright (C)      DNSjava
+\nCopyright (C)      ENUMdroid
+\nCopyright (C)      libphonenumber
+\nCopyright (C) 2009 The Sipdroid Open Source Project (http://sipdroid.org)
+\nCopyright (C) 2008 Hughes Systique Corporation, USA (http://hsc.com)
+\nCopyright (C) 2006 The Android Open Source Project (http://android.com)
+\nCopyright (C) 2005 Luca Veltri - University of Parma - Italy (http://mjsip.org)
+\n
+\nThis program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+\n
+\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details (http://www.gnu.org/licenses).</string>
+<string name="dialog_default">ClientApp is not currently set as default phone. Would you like to make it as default phone?
+\n
+\nIf you answer \'No\' here, you can still dial over ClientApp from the system by adding \'+\' behind a number in Dialer, or by selecting \'text to\' in Contacts.</string>
+
+    <string-array name="pref_display_values">
+        <item>ClientApp only</item>
+        <item>ClientApp, when available</item>
+        <item>Phone</item>
+        <item>Always ask</item>
+    </string-array>
+
+    <string name="settings_title">ClientApp settings</string>
+
+    <string name="settings_profile_title">ClientApp Settings (<xliff:g id="profile">%s</xliff:g>)</string>
+
+    <string-array name="settings_log_uri_prefix_display">
+        <item>ClientApp:</item>
+        <item>sip:</item>
+    </string-array>
+    <string-array name="settings_log_uri_prefix_values">
+        <item>ClientApp</item>
+        <item>sip</item>
+    </string-array>
+
+
+    <string name="enrolment_request_title">ClientApp enrolment</string>
+
+
+    <string name="enrolment_sms_sending_failed_title">ClientApp SMS sending failure.</string>
+
+    <string name="validation_requested_title">ClientApp validation</string>
+
+
+    <string name="validation_requested_detail">Validation requested - you may try to use ClientApp now</string>
+
+
+    <string name="verify_manual_help">When you click the button below, you should receive a verification SMS.  ClientApp will try to read the SMS automatically to confirm your number.</string>
+
+
+    <string name="dial_popup_enable">Always show ClientApp</string>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/urvikagola/Desktop/lumicall/build/intermediates/res/merged/defaultapp/debug/xml/preferences.xml",
+        "source": "/home/urvikagola/Desktop/lumicall/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/urvikagola/Desktop/lumicall/build/intermediates/res/merged/defaultapp/debug/xml/sip_identity_settings.xml",
+        "source": "/home/urvikagola/Desktop/lumicall/res/xml/sip_identity_settings.xml"
+    },
+    {
+        "merged": "/home/urvikagola/Desktop/lumicall/build/intermediates/res/merged/defaultapp/debug/xml/enum_suffix_settings.xml",
+        "source": "/home/urvikagola/Desktop/lumicall/res/xml/enum_suffix_settings.xml"
+    },
+    {
+        "merged": "/home/urvikagola/Desktop/lumicall/build/intermediates/res/merged/defaultapp/debug/xml/db_objects_settings.xml",
+        "source": "/home/urvikagola/Desktop/lumicall/res/xml/db_objects_settings.xml"
+    },
+    {
+        "merged": "/home/urvikagola/Desktop/lumicall/build/intermediates/res/merged/defaultapp/debug/xml/codec_settings.xml",
+        "source": "/home/urvikagola/Desktop/lumicall/res/xml/codec_settings.xml"
+    },
+    {
+        "merged": "/home/urvikagola/Desktop/lumicall/build/intermediates/res/merged/defaultapp/debug/xml/ptt_channel_settings.xml",
+        "source": "/home/urvikagola/Desktop/lumicall/res/xml/ptt_channel_settings.xml"
+    }
+]
